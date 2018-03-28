@@ -17,6 +17,7 @@ public class QACreateProject {
   {
 	  
 	  System.out.println("MAIN TEST");
+	  System.out.println("Test1");
   }
   @BeforeMethod
   public void beforeMethod() 
